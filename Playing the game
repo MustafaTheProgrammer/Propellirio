@@ -1,0 +1,11 @@
+To run:
+1. download code file
+2. make sure JDK is on your computer
+3. go to terminal
+4. compile with javac Propellirio.java
+5. run with java Propellirio
+
+Controls for actual game:
+-space to start or to resart
+-right and left arrow keys to move left and right
+-up arrow key to fly
